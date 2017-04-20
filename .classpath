@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/JNative/JNative.jar"/>
+	<classpathentry kind="lib" path="E:/JNAjar包/jna-4.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/jacob/jacob-1.17-M2/jacob.jar"/>
+	<classpathentry kind="lib" path="E:/jcom.jar and dll/jcom.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/poi-bin-3.15-20160924/poi-3.15/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/poi-bin-3.15-20160924/poi-3.15/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/poi-bin-3.15-20160924/poi-3.15/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/poi-bin-3.15-20160924/poi-3.15/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/poi-bin-3.15-20160924/org.apache.poi.xwpf.converter.core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/poi-bin-3.15-20160924/org.apache.poi.xwpf.converter.xhtml-1.0.6.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="E:/毕业设计-Lucene全文检索/poi-bin-3.15-20160924/poi-3.15/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
